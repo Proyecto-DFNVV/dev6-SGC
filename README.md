@@ -6,3 +6,5 @@ Nos especializamos en:
 🌐 Desarrollo de sitios web modernos y adaptativos.  
 🛠️ Creación de aplicaciones web personalizadas.  
 🚀 Asesoramiento tecnológico para optimizar procesos y presencia online.
+
+🧑‍🤝‍🧑 Además, en Dev6 valoramos el trabajo en equipo, la innovación constante y la cercanía con nuestros clientes, acompañándolos en cada etapa del proceso para garantizar soluciones eficientes y a medida.
