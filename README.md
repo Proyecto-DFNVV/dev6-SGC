@@ -1,3 +1,3 @@
-Sistemas de Gestión de Contenidos - TSDWAD - 2025
+# Sistemas de Gestión de Contenidos - TSDWAD - 2025
 
-##Equipo: DEV6
+## Equipo: DEV6
