@@ -9,12 +9,10 @@ Nos especializamos en:
 
 🧑‍🤝‍🧑 Además, en Dev6 valoramos el trabajo en equipo, la innovación constante y la cercanía con nuestros clientes, acompañándolos en cada etapa del proceso para garantizar soluciones eficientes y a medida.
 
-## 👨‍💻 Equipo
-| Nombre(s) |
-|-----------------|-----------|
-| Scrum Master    | Moya Verónica |
-| Developers      | Ruzzi Valeria |
-| Developers      | Corvalán Alejandro |
-| Developers      | Salvo Daniela |
-| Developers      | Velasco Gonzalo |
-| Developers      | Guillén Jonathan |
+👨‍💻 Equipo
+>> Corvalán Alejandro
+>> Guillén Jonathan
+>> Moya Verónica
+>> Ruzzi Valeria
+>> Salvo Daniela
+>> Velasco Gonzalo
