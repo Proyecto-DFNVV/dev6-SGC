@@ -3,6 +3,7 @@
 Portafolio Profesional con WordPress - Equipo dev 6
 
 📜 1. Descripción del Proyecto
+
 Este repositorio corresponde al proyecto de la materia Sistemas de Gestión de Contenidos del Instituto Superior Politécnico Córdoba. El objetivo es desarrollar un sitio web de portafolio profesional para el equipo "dev 6", utilizando el CMS WordPress.
 
 El propósito del sitio es servir como una carta de presentación digital, mostrando las habilidades, conocimientos, proyectos y experiencia laboral de los integrantes del equipo de una manera organizada y atractiva.
@@ -61,7 +62,9 @@ Para un desglose detallado de la planificación, roles, y estructura del proyect
 </table>
 
 🚀 3. Instalación y Uso
+
 Acceso al Sitio en Producción
+
 El sitio web está desplegado y accesible públicamente a través del siguiente enlace:
 https://dev6.free.nf/wp-admin/
 
