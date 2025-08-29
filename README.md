@@ -1,6 +1,7 @@
 # Sistemas de Gestión de Contenidos - TSDWAD - 2025
 
 Portafolio Profesional con WordPress - Equipo dev 6
+
 📜 1. Descripción del Proyecto
 Este repositorio corresponde al proyecto de la materia Sistemas de Gestión de Contenidos del Instituto Superior Politécnico Córdoba. El objetivo es desarrollar un sitio web de portafolio profesional para el equipo "dev 6", utilizando el CMS WordPress.
 
@@ -62,3 +63,5 @@ Para un desglose detallado de la planificación, roles, y estructura del proyect
 🚀 3. Instalación y Uso
 Acceso al Sitio en Producción
 El sitio web está desplegado y accesible públicamente a través del siguiente enlace:
+https://dev6.free.nf/wp-admin/
+
