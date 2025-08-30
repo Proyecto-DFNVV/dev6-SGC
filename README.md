@@ -76,6 +76,16 @@ Se ha establecido el acceso inicial al panel de administración de WordPress sig
 Usuario Administrador: Se crearon los usuario con el perfil de Administrador para la gestión completa del sitio. 
 Gestión de Contraseña: La contraseña generada es segura y ha sido almacenada en un documento compartido accesible únicamente por los miembros del equipo, garantizando su confidencialidad.
 
+### Tecnología utilizada
+Configuración del Entorno de Desarrollo
+Se ha configurado exitosamente un entorno de trabajo con WordPress para el proyecto.
+Plataforma Utilizada: Se optó por utilizar un servicio de alojamiento gratuito (InfinityFree) para esta etapa, permitiendo que el sitio sea accesible en línea desde el inicio, facilitando la colaboración y las revisiones. Esto elimina la necesidad de una instalación local con XAMPP para los miembros del equipo.
+Instalación de WordPress: Se instaló la última versión estable de WordPress a través del panel de control del servicio de hosting.
+Configuración Inicial del Sitio: De acuerdo a la consigna, el sitio ha sido configurado con los siguientes datos desde el panel de WordPress (Ajustes > Generales):
+Título del sitio: DEV6
+Descripción corta: Tienda Comercial profesional
+
+
 <img width="980" height="403" alt="{8984A5A2-6735-4662-9C0A-1D6764CB6D9D}" src="https://github.com/user-attachments/assets/152a7ca6-b83a-4e59-8257-052e1158a870" />
 
 
