@@ -69,3 +69,11 @@ Acceso al Sitio en Producción
 El sitio web está desplegado y accesible públicamente a través del siguiente enlace:
 https://dev6.free.nf/wp-admin/
 
+<img width="267" height="373" alt="{39E6EA1C-58BB-4FD5-B2D5-4A98D04644A2}" src="https://github.com/user-attachments/assets/b809469a-b57d-47fb-9b6d-85ba65f3a5e0" />
+
+### Creación y Gestión de Usuarios
+Se ha establecido el acceso inicial al panel de administración de WordPress siguiendo las mejores prácticas de seguridad.
+Usuario Administrador: Se crearon los usuario con el perfil de Administrador para la gestión completa del sitio. 
+Gestión de Contraseña: La contraseña generada es segura y ha sido almacenada en un documento compartido accesible únicamente por los miembros del equipo, garantizando su confidencialidad.
+
+
