@@ -84,7 +84,7 @@ Configuración del Entorno de Desarrollo
 Se ha configurado exitosamente un entorno de trabajo con WordPress para el proyecto.
 Plataforma Utilizada: Se optó por utilizar un servicio de alojamiento gratuito (InfinityFree) para esta etapa, permitiendo que el sitio sea accesible en línea desde el inicio, facilitando la colaboración y las revisiones. Esto elimina la necesidad de una instalación local con XAMPP para los miembros del equipo.
 Instalación de WordPress: Se instaló la última versión estable de WordPress a través del panel de control del servicio de hosting.
-Configuración Inicial del Sitio: De acuerdo a la consigna, el sitio ha sido configurado con los siguientes datos desde el panel de WordPress (Ajustes > Generales):
+Configuración Inicial del Sitio: El sitio ha sido configurado con los siguientes datos desde el panel de WordPress (Ajustes > Generales):
 
 Título del sitio: DEV6
 
